@@ -1,4 +1,4 @@
-package io.javabrains.springsecurityjpa;
+package io.alkostylew.springsecurityjpa;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

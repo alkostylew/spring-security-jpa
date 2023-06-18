@@ -1,6 +1,6 @@
-package io.javabrains.springsecurityjpa;
+package io.alkostylew.springsecurityjpa.repositories;
 
-import io.javabrains.springsecurityjpa.models.User;
+import io.alkostylew.springsecurityjpa.models.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

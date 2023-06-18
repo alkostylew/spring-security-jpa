@@ -1,4 +1,4 @@
-package io.javabrains.springsecurityjpa.models;
+package io.alkostylew.springsecurityjpa.models;
 
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;

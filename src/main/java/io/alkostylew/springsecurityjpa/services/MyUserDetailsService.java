@@ -1,8 +1,9 @@
-package io.javabrains.springsecurityjpa;
+package io.alkostylew.springsecurityjpa.services;
 
-import io.javabrains.springsecurityjpa.models.MyUserDetails;
+import io.alkostylew.springsecurityjpa.models.MyUserDetails;
+import io.alkostylew.springsecurityjpa.models.User;
+import io.alkostylew.springsecurityjpa.repositories.UserRepository;
 
-import io.javabrains.springsecurityjpa.models.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
