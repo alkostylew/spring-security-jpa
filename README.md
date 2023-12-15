@@ -26,3 +26,11 @@ Header:
 Header:
    Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzd....
   ````
+
+## Docker
+1. docker pull mysql:8.2.0
+2. docker run -p 3306:3306 --name mysqldb -e MYSQL_ROOT_PASSWORD=root -e MYSQL_DATABASE=springsecurity mysql:8.2.0
+
+# MySql client
+1. Install and start MySql Workbench
+    
